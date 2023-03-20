@@ -1,11 +1,8 @@
 
 
 
-import {Heading, Text, Container, Box,Flex, List,ListIcon,ListItem, FormControl, FormLabel, Input} from '@chakra-ui/react'
-import { PhoneIcon, AddIcon, WarningIcon, BellIcon } from '@chakra-ui/icons'
 
 import Button from 'react-bootstrap/Button';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import Image from 'react-bootstrap/Image'
 import './app.css'
 
